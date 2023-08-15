@@ -12,7 +12,7 @@ for line := range t.Lines {
 }
 ```
 
-See [API documentation](http://godoc.org/github.com/max-cheng/tail).
+See [API documentation](http://godoc.org/github.com/Max-Cheng/tail).
 
 ## Log rotation
 
@@ -21,8 +21,8 @@ designed to work with log rotation tools.
 
 ## Installing
 
-    go get github.com/max-cheng/tail/...
+    go get github.com/Max-Cheng/tail/...
 
 ## Windows support
 
-This package [needs assistance](https://github.com/max-cheng/tail/labels/Windows) for full Windows support.
+This package [needs assistance](https://github.com/Max-Cheng/tail/labels/Windows) for full Windows support.

@@ -15,9 +15,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/max-cheng/tail/ratelimiter"
-	"github.com/max-cheng/tail/util"
-	"github.com/max-cheng/tail/watch"
+	"github.com/Max-Cheng/tail/ratelimiter"
+	"github.com/Max-Cheng/tail/util"
+	"github.com/Max-Cheng/tail/watch"
 	"gopkg.in/tomb.v1"
 )
 

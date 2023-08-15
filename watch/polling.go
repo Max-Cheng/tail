@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/max-cheng/tail/util"
+	"github.com/Max-Cheng/tail/util"
 	"gopkg.in/tomb.v1"
 )
 
