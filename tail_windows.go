@@ -1,10 +1,12 @@
+//go:build windows
 // +build windows
 
 package tail
 
 import (
-	"github.com/hpcloud/tail/winfile"
 	"os"
+
+	"github.com/max-cheng/tail/winfile"
 )
 
 func OpenFile(name string) (file *os.File, err error) {
